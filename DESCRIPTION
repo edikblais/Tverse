@@ -33,6 +33,7 @@ Imports:
     testthat,
     tidyverse,
     Tmisc,
+    xml2,
     usethis,
     utils,
     yaml
