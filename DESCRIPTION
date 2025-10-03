@@ -34,6 +34,7 @@ Imports:
     tidyverse,
     Tmisc,
     xml2,
+    tidypmc,
     usethis,
     utils,
     yaml
