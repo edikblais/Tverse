@@ -39,7 +39,8 @@ Imports:
     utils,
     yaml
 Remotes:
-    MilesMcBain/breakerofchains
+    MilesMcBain/breakerofchains,
+    ropensci/tidypmc
 biocViews: 
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
