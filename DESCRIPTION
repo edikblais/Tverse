@@ -37,6 +37,10 @@ Imports:
     tidypmc,
     usethis,
     utils,
+    shinymanager, 
+    shinyauthr, 
+    auth0, 
+    googleAuthR
     yaml
 Remotes:
     MilesMcBain/breakerofchains,
